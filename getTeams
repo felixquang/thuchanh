@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Manchester United",
+        "city": "Manchester",
+        "stadium": "Old Trafford",
+        "coach": "Ole Gunnar Solskjaer",
+        "captain": "Harry Maguire"
+    },
+    {
+        "name": "Liverpool",
+        "city": "Liverpool",
+        "stadium": "Anfield",
+        "coach": "Jurgen Klopp",
+        "captain": "Jordan Henderson"
+    },
+    {
+        "name": "Manchester City",
+        "city": "Manchester",
+        "stadium": "Etihad Stadium",
+        "coach": "Pep Guardiola",
+        "captain": "Fernandinho"
+    }
+]
